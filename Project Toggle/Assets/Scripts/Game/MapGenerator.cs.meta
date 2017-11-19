@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 49d76f867a010f244bcf4dab4d8c6fc2
+timeCreated: 1478860717
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - seedDisplay: {instanceID: 0}
+  - roofWall: {fileID: 1257866661446182, guid: b571741527fdf3249b62436da59fa0a8, type: 2}
+  - floorWall: {fileID: 1349408570719930, guid: 7baa5a6adb13bef4aa88ac75f68dd09e,
+      type: 2}
+  - pickup: {fileID: 1245824666910868, guid: ef7691c5b70e6c140912c42251ea0dff, type: 2}
+  - roof: {fileID: 1664541146312488, guid: be7bf77f200aa534cad44a79ed8fea32, type: 2}
+  - floor: {fileID: 1348398705432854, guid: 67a214a3aaae7264ca2fd01dfaaf94f2, type: 2}
+  - mapMarker: {fileID: 1261142148198784, guid: d512097693d8b5649b48366712e83023,
+      type: 2}
+  - mapEndMarker: {fileID: 1011102934209082, guid: 6a7e51c8d7c4b9f4f86972947c1096fe,
+      type: 2}
+  - cameraMain: {instanceID: 0}
+  - platformPrefab: {fileID: 1461410606398188, guid: db486104c4fa47249b1aeb16f38f2dbe,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

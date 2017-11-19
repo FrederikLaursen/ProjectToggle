@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 620e2d29bdac161439b97adcd65fb46c
+timeCreated: 1479298841
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scrollRect: {instanceID: 0}
+  - highScoreBtn: {fileID: 1773093116831352, guid: ec22fc9a072fbf14f99b3ee930cedf70,
+      type: 2}
+  - contentTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
