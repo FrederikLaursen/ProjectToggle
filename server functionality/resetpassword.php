@@ -6,9 +6,9 @@ ini_set('display_errors', 'On');
 error_reporting(E_ALL);
 
 	$servername = "localhost";
-	$username = "root";
-	$password = "unitydb123";
-	$dbname = "Unityproject";
+	$username = "username";
+	$password = "pw";
+	$dbname = "dbname";
 
 	$conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
 	
@@ -38,9 +38,9 @@ error_reporting(E_ALL);
 	$mail->Host = "smtp.gmail.com";
 	$mail->Port = 465;
 	$mail->IsHTML(true);
-	$mail->Username = "simonfjoensson@gmail.com";
-	$mail->Password = "x612M^44R8zb";
-	$mail->SetFrom("simonfjoensson@gmail.com");
+	$mail->Username = "username";
+	$mail->Password = "password";
+	$mail->SetFrom("fromemail");
 	$mail->Subject = "Password reset";
 
 	// Generate a new random password for the user
