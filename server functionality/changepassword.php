@@ -2,9 +2,9 @@
 error_reporting(E_ALL);
 
 	$servername = "localhost";
-	$username = "root";
-	$password = "unitydb123";
-	$dbname = "Unityproject";
+	$username = "username";
+	$password = "pw";
+	$dbname = "dbname";
 
 	$conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
 	
